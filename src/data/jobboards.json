@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Indeed",
+        "id": "indeed"
+    },
+    {
+        "name": "Monster",
+        "id": "monster"
+    },
+    {
+        "name": "France Travail",
+        "id": "france-travail"
+    },
+    {
+        "name": "Cadremploi",
+        "id": "cadremploi"
+    },
+    {
+        "name": "Apec",
+        "id": "apec"
+    },
+    {
+        "name": "L'étudiant.fr",
+        "id": "letudiant"
+    },
+    {
+        "name": "Keljob",
+        "id": "keljob"
+    },
+    {
+        "name": "Meteojob",
+        "id": "meteojob"
+    },
+    {
+        "name": "Jobteaser",
+        "id": "jobteaser"
+    },
+    {
+        "name": "Jobrapido",
+        "id": "jobrapido"
+    },
+    {
+        "name": "Jobintree",
+        "id": "jobintree"
+    },
+    {
+        "name": "Joblift",
+        "id": "joblift"
+    },
+    {
+        "name": "JobiJoba",
+        "id": "jobijoba"
+    },
+    {
+        "name": "Jooble",
+        "id": "jooble"
+    }
+]
